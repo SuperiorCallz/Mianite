@@ -1,0 +1,5 @@
+# These are the coordinates that the player will teleport to once they have chosen their gods. 
+# Careful! These particular coordinates will warp kill you! Suit to needs ASAP!
+mianite: 00 00 00
+dianite: 646 70 582
+ianite: 00 00 00

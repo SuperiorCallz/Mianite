@@ -1,0 +1,19 @@
+name: Mianite
+main: me.SuperiorCallz.Mianite.Mianite
+version: 1.0
+author: SuperiorCallz
+description: The brain of the realm. (Check out http://www.youtube.com/SuperiorCallz)
+ 
+commands:
+  mianite:
+    description: Join the God who started this world.
+  dianite:
+    description: Evil and power lives within this God.
+  ianite:
+    description: The God of balance awaits your visit.
+  pray:
+    description: The God of balance awaits your visit.
+  praypoints:
+    description: The God of balance awaits your visit.
+  devtools:
+    description: The God of balance awaits your visit.
