@@ -12,8 +12,8 @@ commands:
   ianite:
     description: The God of balance awaits your visit.
   pray:
-    description: The God of balance awaits your visit.
+    description: Pray to your God for a favor.
   praypoints:
-    description: The God of balance awaits your visit.
+    description: Check how many Pray Points you have.
   devtools:
-    description: The God of balance awaits your visit.
+    description: Developer tools.
